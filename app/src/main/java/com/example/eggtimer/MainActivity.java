@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
             }.start();
         } else {
 //            else the timer is running so if we press
-//            we can re start from the beginign
+//            we can re start from the beginig
             startStopButton.setText("Re-START");
 //            enable the seek bar
             timeSeekBar.setEnabled(true);
